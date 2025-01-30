@@ -17,4 +17,4 @@
     Développement d'une application pour les Journées Portes Ouvertes (JPO) de mon département.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianollivier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianollivier&layout=compact&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
