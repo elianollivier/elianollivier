@@ -1,6 +1,6 @@
 👋 Salut, je m'appelle Elian
 
-🎓 Étudiant en 2ème année d'IUT Informatique à Limoges, passionné par le développement et l'informatique.
+🎓 Étudiant en 3ème année d'IUT Informatique à Limoges, passionné par le développement et l'informatique.
 
 🛠️ Compétences
 
